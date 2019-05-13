@@ -20,6 +20,7 @@ from world
 where area > 3000000 or (population>25000000 and gdp>20000000);
 ```
 输出: 
+
 | Email   |
 |---------|
 | [a@b.com]|
@@ -51,6 +52,7 @@ from world
 where area > 3000000 or (population>25000000 and gdp>20000000);
 ```
 输出: 
+
 | name        | population | area   |
 | ----------- | ---------- | ------ |
 | Afghanistan | 25500100   | 652230 |
